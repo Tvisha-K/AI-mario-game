@@ -58,7 +58,7 @@ noseY = "";
 
 game_status = "";
 
-function start_game() {
+function startgame() {
 
   game_status = "start";
 
